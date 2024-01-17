@@ -1,6 +1,8 @@
-# Welcome to Cogrammar! 🚀
+<h1 align="center">Welcome to Cogrammar! 🚀</h1>
 
-![Cogrammar Logo](./cogrammar.png)
+<p align="center">
+  <img src="cogrammar.png" alt="Cogrammar Logo"/>
+</p>
 
 ## About Us 🎓
 
