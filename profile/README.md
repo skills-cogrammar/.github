@@ -1,6 +1,6 @@
 # Welcome to Cogrammar! 🚀
 
-![Cogrammar Logo](cogrammar.png)
+![Cogrammar Logo](./cogrammar.png)
 
 ## About Us 🎓
 
